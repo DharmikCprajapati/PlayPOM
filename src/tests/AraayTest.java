@@ -38,7 +38,16 @@ public class AraayTest {
 // same thing as forloop
 //		for(int i: numbers) {
 //			System.out.println(i);
+		
+		
 //		}
+		
+		
+		System.out.println("Git mAta vakla ajbwekwe");
+		System.out.println("Git mAta vakla djd");
+
+		System.out.println("Git mAta vakla csjcjsc");
+
 		
 	}
 
