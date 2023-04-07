@@ -44,10 +44,10 @@ public class AraayTest {
 		
 		
 		System.out.println("Git mAta vakla ajbwekwe");
-		System.out.println("Git mAta vakla djd");
+		
+		System.out.println("Git mAta regeg djd");
 
-		System.out.println("Git mAta vakla csjcjsc");
-
+		System.out.println("Git mAta reger csjcjsc");
 		
 	}
 
